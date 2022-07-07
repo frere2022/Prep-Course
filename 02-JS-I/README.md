@@ -253,7 +253,7 @@ function logHola(nombre) {
     console.log('Hola, ' + nombre);
 }
 
-logHola('Martin');
+logHola('Mario');
 ```
 
 Si agregamos una variable a los paréntesis cuando declaramos la función, podemos usar esta variable dentro de nuestra función. Iniciamos el valor de esta variable pasándola a la función cuando la llamamos. Entonces en este caso `nombre = 'Martin'`. También podemos pasar otras variables a esto:
