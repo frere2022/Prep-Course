@@ -1,0 +1,5 @@
+Java script II
+1. Un bucle for está formado por una sentencia que se va a estar confirmando junto a una declaración de variable y un contador y mientras
+la sentencia siga siendo verdadera el bucle se hará.
+2.&& || y ! son los conectivos lógicos y o y negación; el conectivo && será verdadero si ambas sentencias son verdaderas de lo contrario es falsa.
+|| será verdadera en todos los casos a escepción de que ambas sean falsas; por ultimo ! es la negación de una afirmación es decir si la afirmación es verdadera sera falsa y si es falsa es verdadera.
