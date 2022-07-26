@@ -1,0 +1,1 @@
+1. ¿Que es un arrray? un array es una colección de objetos que se estandarizan con un indice asociado a cada valor.
