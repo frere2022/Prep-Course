@@ -1,0 +1,7 @@
+1. ¿Que es un objeto? es una colección de propiedades y métodos.
+2. ¿Que son las propiedades? son valores que se asignan a una clave.
+3. ¿Que son los métodos? son funciones dentro de un objeto.
+4. ¿Que es un bucle for in? es un bucle for que se instancia en las propiedades y métodos de un objeto.
+5. notación de punto vs notación de corchetes. en una notación de punto el valor de la propiedad o método no va entre comillas en cambio en la notación de corchetes si.
+
+
